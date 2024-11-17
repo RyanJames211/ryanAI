@@ -114,5 +114,10 @@
         "Hi! How are you doing?",
         "Hey there! What can I help you with today?",
         "Hi! How's it going?"
+    ],
+    "hello": [
+        "Hello?",
+        "Hey there! What can I help you with today?",
+        "Hello! How's it going?"
     ]
 }
