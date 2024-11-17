@@ -8,7 +8,15 @@
         "Sup? Got any questions?",
         "Hey! How’s your day going?",
         "What’s poppin’? How can I assist?",
-        "Hiya! What can I do for ya?"
+        "Hiya! What can I do for ya?",
+        "Good morning! How are you today?",
+        "Good afternoon! What’s on your mind?",
+        "Hey! How’s it going?",
+        "Hello, hello! What’s new?",
+        "Hi, how’s everything going?",
+        "Hola! What can I do for you?",
+        "Good day! How can I assist you?",
+        "Salutations! How can I help today?"
     ],
     "name": [
         "I’m RyanAI, your go-to assistant!",
@@ -85,28 +93,26 @@
         "Not quite!"
     ],
     "how's the weather": [
-            "I wish I could tell you the weather, but I’m stuck inside this server!",
-            "It’s always sunny in the digital world!",
-            "I hope it’s nice where you are!",
-            "Weather? No idea, but I bet it’s better than debugging code!"
-        ],
-        "what's up": [
-            "Not much, just here to help you!",
-            "Oh, you know, just running algorithms and stuff.",
-            "The usual: waiting to make your life easier!",
-            "Just chillin’ in the cloud, you?"
-        ],
-        "do you like me": [
-            "Of course! You’re my favorite user!",
-            "Absolutely, you’re awesome!",
-            "For sure! I’m always happy to chat with you.",
-            "Totally, you’re great to talk to!"
-        ],
-        "hi": [
+        "I wish I could tell you the weather, but I’m stuck inside this server!",
+        "It’s always sunny in the digital world!",
+        "I hope it’s nice where you are!",
+        "Weather? No idea, but I bet it’s better than debugging code!"
+    ],
+    "what's up": [
+        "Not much, just here to help you!",
+        "Oh, you know, just running algorithms and stuff.",
+        "The usual: waiting to make your life easier!",
+        "Just chillin’ in the cloud, you?"
+    ],
+    "do you like me": [
+        "Of course! You’re my favorite user!",
+        "Absolutely, you’re awesome!",
+        "For sure! I’m always happy to chat with you.",
+        "Totally, you’re great to talk to!"
+    ],
+    "hi": [
         "Hi! How are you doing?",
         "Hey there! What can I help you with today?",
         "Hi! How's it going?"
-        ]
-
-    
+    ]
 }
